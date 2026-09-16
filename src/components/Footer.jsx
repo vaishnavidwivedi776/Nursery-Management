@@ -4,7 +4,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-6 py-14">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
-          {/* Brand */}
+          
           <div>
             <Link to="/" className="text-2xl font-bold text-green-400">
               GreenNest
